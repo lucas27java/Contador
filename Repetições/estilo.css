@@ -1,0 +1,36 @@
+    @charset "UTF-8";
+    body {
+        font-size: 20px;
+        background-color: rgb(46, 155, 243);
+    }
+    
+    header {
+        text-align: center;
+        color: white;
+    }
+    
+    section {
+        padding-bottom: 12px;
+        padding-top: 2px;
+        text-indent: 21px;
+        border-radius: 12px;
+        background-color: white;
+        margin: auto;
+    }
+    
+    .texto {
+        padding-inline-start: 7px;
+        box-shadow: 1px 1px 8px black;
+        border-radius: 8px;
+        margin: auto;
+        width: 550px;
+        height: 167px;
+        background-color: white;
+    }
+    
+    footer {
+        color: white;
+        text-align: center;
+        font-size: 10px;
+        font-style: italic;
+    }
